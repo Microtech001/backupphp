@@ -1,3 +1,16 @@
-#EXTM3U
-#EXTINF:-1 group-title="EXPIERD" ch-number="EXPIERD" tvg-id="EXPIERD" tvg-chno="EXPIERD" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/tv1.jpg",Account Expired PM ADMIN
+#EXTM3U billed-msg="WELCOME TO MTS SHOP | Your account has been expired, please chat admin for renew your account"
+#EXTINF:-1 group-title="EXPIERED" ch-number="EXPIERED" tvg-id="EXPIERED" tvg-chno="EXPIERED" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/tv1.jpg",Account Expired PM ADMIN
+###https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1                               
+
+#EXTINF:-1 tvg-id="EXPIRED" tvg-name="IRINASPICY.TV" group-title="EXPIRED ID" group-logo="https://icons.iconarchive.com/icons/sonya/swarm/256/Fire-icon.png" tvg-logo="https://icons.iconarchive.com/icons/sonya/swarm/256/Fire-icon.png",MICROTECH STORE
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+ 
+#EXTINF:-1 tvg-id="EXPIRED" tvg-name="EXPIRED" group-title="EXPIRED ID" group-logo="https://icons.iconarchive.com/icons/sonya/swarm/256/Fire-icon.png" tvg-logo="https://icons.iconarchive.com/icons/sonya/swarm/256/Fire-icon.png",YOUR ACCOUNT HAS BEEN EXPIRED
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+  
+#EXTINF:-1 tvg-id="EXPIRED" tvg-name="EXPIRED" group-title="EXPIRED ID" group-logo="https://icons.iconarchive.com/icons/sonya/swarm/256/Fire-icon.png" tvg-logo="https://icons.iconarchive.com/icons/sonya/swarm/256/Fire-icon.png",PLEASE RENEW YOUR ID
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+
+#EXTINF:-1 tvg-id="EXPIRED" tvg-name="EXPIRED" group-title="EXPIRED ID" group-logo="https://icons.iconarchive.com/icons/sonya/swarm/256/Fire-icon.png" tvg-logo="https://icons.iconarchive.com/icons/sonya/swarm/256/Fire-icon.png",CONTACT SELLER FOR MORE INFO
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+</noscript>
